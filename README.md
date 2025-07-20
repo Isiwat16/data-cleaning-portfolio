@@ -1,2 +1,7 @@
 # data-cleaning-portfolio
-A collection of my data cleaning projects.
+Welcome to my data cleaning portfolio. This repository contains individual folders for each dataset i've cleaned using tools like Microsoft Excel, Power Query and SQL.
+
+## Projects
+- [Sales Performance Cleaning](./sales-performance-cleaning)
+
+More projects coming soon!
