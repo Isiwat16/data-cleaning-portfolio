@@ -3,5 +3,6 @@ Welcome to my data cleaning portfolio. This repository contains individual folde
 
 ## Projects
 - [Sales Performance Cleaning](./sales-performance-cleaning)
+- [Orders](./orders)
 
 More projects coming soon!
